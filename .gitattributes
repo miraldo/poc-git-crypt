@@ -2,3 +2,4 @@ dev/** filter=git-crypt diff=git-crypt
 prd/** filter=git-crypt diff=git-crypt
 qua/* filter=git-crypt-qua diff=git-crypt-qua
 non-prod/* filter=git-crypt-non-prod diff=git-crypt-non-prod
+dev-dev/* filter=dev-git-crypt diff=dev-git-crypt
